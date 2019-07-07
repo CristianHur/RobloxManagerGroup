@@ -1,0 +1,12 @@
+{
+  "name": "RobloxManagerBotDiscord",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "bot.js",
+  "author": "Dequei#0519",
+  "dependencies": {
+    "eris": "^0.10.0",
+    "noblox.js": "^4.2.6",
+    "roblox-js": "^4.0.4"
+  }
+}

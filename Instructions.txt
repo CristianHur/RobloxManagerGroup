@@ -1,0 +1,18 @@
+You can not be connected to an account with Roblox and the bot at the same time. I recommend creating an account just to use the bot.
+
+·Configure:
+
+	1 - Edit 'bot.js'
+	2 - Modify the fields between the "EDIT THIS" tags
+
+·Turn it On - Windows:
+
+	1 - Install Node.js https://nodejs.org
+	2 - Shift+Right Click inside the folder of the Bot (.\RobloxManagerGroup)
+	3 - Open PowerShell Window
+	4 - Write: 'node bot.js'
+	5 - Press Enter
+	6 - Done
+	
+·Command:
+	r!Promote <Roblox-User-ID> <Roblox-Role-ID>
