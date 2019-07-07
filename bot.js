@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //EDIT THIS//
 
-//Write here the token of the discord bot. YYou can get it here when you create a bot.: https://discordapp.com/developers/applications
+//Write here the token of the discord bot. YYou can get it here when you create a bot: https://discordapp.com/developers/applications
 var DiscordBotToken = "WRITE HERE YOUR BOT DISCORD TOKEN";
 
 /*
